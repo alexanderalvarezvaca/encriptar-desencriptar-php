@@ -48,7 +48,10 @@ if(@$_POST['text_area']){
 </head>
 <body>
 	<br>
-	<h1>Ejemplo de Encriptacion basica<br><small>INTELLIGENCE TECHNOLOGY COMPANY SRL</small><br><small><a href="http://it.srl.company/" target="_blank">www.it.srl.company/</a></small></h1>
+	<h1>Ejemplo de Encriptacion basica<br>
+		<small>INTELLIGENCE TECHNOLOGY COMPANY SRL</small><br>
+		<small><a href="http://it.srl.company/" target="_blank">www.it.srl.company/</a></small>
+	</h1>
 	<h3>Ejemplo para encriptar y desencriptar</h3>
 	<hr><br>
 	<table>
